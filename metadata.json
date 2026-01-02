@@ -1,0 +1,7 @@
+{
+  "name": "Vision2Bootstrap AI",
+  "description": "A high-fidelity design-to-code pipeline that transforms images into modern Bootstrap-powered components with customizable styles and variations.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
